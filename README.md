@@ -1,3 +1,9 @@
+React Router Dom version 6
+
+# layout and structure for links, with nested links
+
+You can clone the files or download them to create a new react app. Once setup in your IDE run npm install to update dependencies
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
